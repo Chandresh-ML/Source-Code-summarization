@@ -84,3 +84,12 @@ Then Run run.py file in model / evaluator folder.
   <img src="OUPUT_IMAGES/Screenshot (43).png" width="600"/>
   <br><i>Figure:BLEU SCORE</i>
 </p>
+
+
+## Author
+
+**Chandresh Yadav**  
+GitHub: [@Chandresh-ML](https://github.com/Chandresh-ML)  
+Email: chandreshyadav1708@gmail.com
+
+
