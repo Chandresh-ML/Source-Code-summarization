@@ -64,4 +64,5 @@ Then Run run.py file in model / evaluator folder.
 
 # OUTPUT
 
+(OUPUT_IMAGES/reference summaries.png)
 
