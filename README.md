@@ -79,3 +79,8 @@ Then Run run.py file in model / evaluator folder.
   <img src="OUPUT_IMAGES/Screenshot (20).png" width="600"/>
   <br><i>Figure:SUMMARY EXAMPLES</i>
 </p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/Screenshot (43).png" width="600"/>
+  <br><i>Figure:BLEU SCORE</i>
+</p>
