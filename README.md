@@ -26,9 +26,17 @@ Development of a hybrid model combining Transformer and Tree-LSTM for better res
 **Best BLEU Score**: 35.42 (after extensive training and dataset augmentation).
 
 # 📁 Folder Structure
+/Code/ - contains code file for running.
+
+/dataset/ – Scripts for data preprocessing and raw dtaset file in text format.
+
+/datasetAST/ - scripts for ast and cfg and dataset converetd to AST format.
+
 /models/ – Implementation of baseline and proposed models.
 
-/data/ – Scripts for data preprocessing, AST generation, and CFG extraction.
+/models Already/ - Atttention, encoder-decoder, other LLM and Transformer models.
+
+/Evaluator/ - Code for evaluation and getting bleu score.
 
 /experiments/ – Notebooks and logs of evaluation across models and datasets.
 
@@ -40,3 +48,16 @@ Transformer Models (PLBART, CoTexT)
 Tree-LSTM, LLM
 
 **NLP Tools**: SentencePiece, NLTK, Scikit-learn
+
+
+# How to Run?
+
+Install all the required libraries and dependencies.
+
+First go to dataset folder preprocess the dataset.
+
+then go to DatasetAST Conver dataset into ast and cfg.
+
+Use pretrained model and finetune it.
+
+Then Run run.py file in model / evaluator folder.
