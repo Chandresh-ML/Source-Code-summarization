@@ -65,5 +65,17 @@ Then Run run.py file in model / evaluator folder.
 # OUTPUT
 <p align="center">
   <img src="OUPUT_IMAGES/reference summaries.png" width="600"/>
-  <br><i>Figure: ReFerence Summaries</i>
+  <br><i>Figure: Reference Summaries</i>
+</p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/output summaries.png" width="600"/>
+  <br><i>Figure:Generated Summaries</i>
+</p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/Screenshot (17).png" width="600"/>
+  <img src="OUPUT_IMAGES/Screenshot (19).png" width="600"/>
+  <img src="OUPUT_IMAGES/Screenshot (20).png" width="600"/>
+  <br><i>Figure:OUTPUT SCORE AND SUMMARY EXAMPLES</i>
 </p>
