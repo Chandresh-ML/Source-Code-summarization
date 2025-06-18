@@ -63,6 +63,7 @@ Use pretrained model and finetune it.
 Then Run run.py file in model / evaluator folder.
 
 # OUTPUT
-
-![Reference](OUPUT_IMAGES/reference summaries.png)
-
+<p align="center">
+  <img src="OUPUT_IMAGES/reference summaries.png" width="600"/>
+  <br><i>Figure: Hybrid Model Architecture for Code Summarization</i>
+</p>
