@@ -65,5 +65,5 @@ Then Run run.py file in model / evaluator folder.
 # OUTPUT
 <p align="center">
   <img src="OUPUT_IMAGES/reference summaries.png" width="600"/>
-  <br><i>Figure: Hybrid Model Architecture for Code Summarization</i>
+  <br><i>Figure: ReFerence Summaries</i>
 </p>
