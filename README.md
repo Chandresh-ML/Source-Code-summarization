@@ -32,11 +32,11 @@ Development of a hybrid model combining Transformer and Tree-LSTM for better res
 
 /experiments/ – Notebooks and logs of evaluation across models and datasets.
 
-👨‍💻 Technologies Used
+# 👨‍💻 Technologies Used
 Python, PyTorch
 
 Transformer Models (PLBART, CoTexT)
 
-Tree-LSTM
+Tree-LSTM, LLM
 
-NLP Tools: SentencePiece, NLTK, Scikit-learn
+**NLP Tools**: SentencePiece, NLTK, Scikit-learn
