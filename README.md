@@ -23,7 +23,7 @@ Development of a hybrid model combining Transformer and Tree-LSTM for better res
 # 📊 Evaluation
 **Metrics**: BLEU, ROUGE, METEOR, WER, LEPOR.
 
-**Best BLEU Score**: 12.42 (after extensive training and dataset augmentation).
+**Best BLEU Score**: 35.42 (after extensive training and dataset augmentation).
 
 # 📁 Folder Structure
 /models/ – Implementation of baseline and proposed models.
