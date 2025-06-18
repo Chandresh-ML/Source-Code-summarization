@@ -1,0 +1,8 @@
+Mission,Country,Year,Latitude,Longitude,Type,Fuel_Used_kg,Landing_Status
+Apollo 11,USA,1969,0.674,23.473,Crewed,150,Success
+Luna 16,Russia,1970,-0.513,56.3,Uncrewed,100,Success
+Chandrayaan-3,India,2023,-69.3676,32.3481,Uncrewed,120,Success
+Luna 25,Russia,2023,-69.5,30.5,Uncrewed,110,Fail
+Surveyor 1,USA,1966,-2.45,-43.34,Uncrewed,95,Success
+Apollo 12,USA,1969,3.01239,-23.42157,Crewed,140,Success
+Chandrayaan-2,India,2019,-70.9,22.78,Uncrewed,130,Fail
