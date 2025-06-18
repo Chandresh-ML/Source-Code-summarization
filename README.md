@@ -61,3 +61,7 @@ then go to DatasetAST Conver dataset into ast and cfg.
 Use pretrained model and finetune it.
 
 Then Run run.py file in model / evaluator folder.
+
+# OUTPUT
+
+
