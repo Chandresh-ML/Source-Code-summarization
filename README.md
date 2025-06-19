@@ -63,5 +63,33 @@ Use pretrained model and finetune it.
 Then Run run.py file in model / evaluator folder.
 
 # OUTPUT
+<p align="center">
+  <img src="OUPUT_IMAGES/reference summaries.png" width="600"/>
+  <br><i>Figure: Reference Summaries</i>
+</p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/output summaries.png" width="600"/>
+  <br><i>Figure:Generated Summaries</i>
+</p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/Screenshot (17).png" width="600"/>
+  <img src="OUPUT_IMAGES/Screenshot (19).png" width="600"/>
+  <img src="OUPUT_IMAGES/Screenshot (20).png" width="600"/>
+  <br><i>Figure:SUMMARY EXAMPLES</i>
+</p>
+
+<p align="center">
+  <img src="OUPUT_IMAGES/Screenshot (43).png" width="600"/>
+  <br><i>Figure:BLEU SCORE</i>
+</p>
+
+
+## Author
+
+**Chandresh Yadav**  
+GitHub: [@Chandresh-ML](https://github.com/Chandresh-ML)  
+Email: chandreshyadav1708@gmail.com
 
 
